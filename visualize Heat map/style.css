@@ -1,0 +1,39 @@
+html{
+    min-height: 100%;
+    background-color: rgb(69, 67, 67);
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    min-height: 100%;
+}
+
+svg{
+    background-color: rgb(69, 67, 67);
+}
+
+#canvas {
+    min-height: 600px;
+    min-width: 1200px;
+    color: rgb(255, 255, 255);
+}
+
+#tooltip{
+    visibility: hidden;
+    height: auto;
+    width: auto;
+
+}
+
+#x-axis{
+    color: aliceblue;
+    fill: azure;
+}
+
+#y-axis{
+    color: aliceblue;
+    fill: azure;
+}

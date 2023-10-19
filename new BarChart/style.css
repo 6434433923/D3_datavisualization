@@ -1,0 +1,38 @@
+
+
+html{
+    height: 100%;
+}
+
+
+body{
+    background-color: #b0ffe7;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+
+}
+
+svg{
+    background-color: #009d9b00;
+    border-radius: 5px;
+    padding: 10px;
+
+}
+
+.bar:hover{
+    fill: #e49ffe;
+}
+
+g{
+    color: #009bd3 ;
+}
+
+#tooltip{
+    margin-top: 10px;
+    color: #113132;
+    font-size: 28px;
+}
+

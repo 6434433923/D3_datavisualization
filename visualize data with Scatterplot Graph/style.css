@@ -1,0 +1,41 @@
+body{
+    display:  flex;
+    flex-direction: column;
+    justify-content: center;
+    align-self:  center;
+}
+
+
+svg{
+    background-color: rgb(53, 53, 53);
+}
+
+#tooltip{
+    visibility: hidden;
+    width: auto;
+    height: auto;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    text-align: center;
+}
+
+#legend{
+    margin: 5px;
+    color: rgb(56, 58, 74);
+    font-size: 18px;
+    text-align: center;
+}
+
+#x-axis{
+    color : white;
+}
+
+#y-axis{
+    color: white;
+}
+
+#title{
+    font-size: 20px;
+    fill: white;
+    text-transform: uppercase;
+}

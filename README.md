@@ -10,7 +10,7 @@ I learned to build charts, graphs, and maps to present different types of data w
 <img width="719" alt="Screenshot 2566-10-23 at 22 52 05" src="https://github.com/6434433923/D3_datavisualization/assets/111390371/c3ad201d-0106-4fcc-a221-c54d18df2526">
 
 
-#USA Education Data 
+**#USA Education Data **
 [choropleth](Choropleth map)
 
 <img width="1128" alt="Screenshot 2566-10-23 at 22 52 36" src="https://github.com/6434433923/D3_datavisualization/assets/111390371/d6810c78-6a1f-4abc-b7b0-1c7c232e7d77">
